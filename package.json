@@ -1,0 +1,9 @@
+{
+  "name": "dynamojs",
+  "version": "1.0.0",
+  "description": "DynamoDB connector for Node",
+  "main": "index.js",
+  "repository": "git@github.com:allanroscoche/dynamojs.git",
+  "author": "Allan Roscoche",
+  "license": "MIT"
+}
